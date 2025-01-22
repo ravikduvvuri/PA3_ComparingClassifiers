@@ -2,9 +2,10 @@
 ## Practical Assignment 3 - Comparing Classifiers
 
 ## Jupyter Notebook
-
+https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/RD_Practical_Application_III_Comparing_Classifiers.ipynb
 
 ## DataSet
+https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/bank-additional-full.csv
 
 
 
@@ -37,7 +38,7 @@ To understand the data, I did the following:
     
     3.2.3 Searched for duplicate data
     
-  ![Alt text]()
+  ![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/pa3_nulldata.jpeg)
 
 ## 4. Data Preparation
 
@@ -57,17 +58,16 @@ To understand the data, I did the following:
     
     4.2.2 Bar Plots - Categorical data
 
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Plots%20-%20Duration.jpeg)
 
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Plots%20-%20Campaign.jpeg)
 
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/CPlots%20-%20Job.jpeg)
 
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Cplots%20-%20y.jpeg)
 
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/ScatterPlot.jpeg)
 
-![Alt text]()
 
 ## 5. Engineering Features
 
@@ -105,7 +105,7 @@ To understand the data, I did the following:
     
     6.6.1 Created a table with fit time, train, test accuracy data
     
-![Alt text]()
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Model%20scores%20comparision.jpeg)
 
 ## 7.Model Finetuning
     
@@ -121,6 +121,15 @@ To understand the data, I did the following:
     
     7.1.6 Plotted ROC-AUC
     
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/ConfusionMatrix.jpeg)
+
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Improved%20model%20scores%20comparision.jpeg)
+
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/Model%20Comparision%20HistPlot.jpeg)
+
+![Alt text](https://github.com/ravikduvvuri/PA3_ComparingClassifiers/blob/main/ROC%20Curve.jpeg)
+
+
 **Based on models evaluation, The DecisionTree Model has shown good performance and better Recall, F1 Score, Train/Test accurancy and model fit time**
 
 
